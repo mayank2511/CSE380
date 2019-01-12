@@ -1,0 +1,1 @@
+This is the repostitory for students pursuing B.Tech CSE (OSS) from GU - 6th Sem.
